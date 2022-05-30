@@ -1,1 +1,2 @@
-python3 $PYFILE
+python3 -c $PYCODE
+
