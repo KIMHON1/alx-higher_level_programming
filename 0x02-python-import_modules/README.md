@@ -1,8 +1,2 @@
-0x02. Python - import & modules
+Import & modules Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn how to import functions, how to create modules and how to use command line arguments in Python.`:wq
 
-How to import functions from another file
-How to use imported functions
-How to create a module
-How to use the built-in function dir()
-How to prevent code in your script from being executed when imported
-How to use command line arguments with your Python programs
